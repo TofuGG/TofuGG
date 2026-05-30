@@ -4,10 +4,11 @@
 ---
 
 ## 🚀 About Me
-- 🎮 Making gacha web apps for fun → [tazsgacha.netlify.app](https://tazsgacha.netlify.app/)
+- 🎮 Making gacha web apps for fun
 - 📱 Dabbling in Flutter mobile development
 - 🔧 Learning C from the ground up
 - 🌱 Always picking up something new
+[Website Portfolio](https://tofuii.netlify.app/)
 
 ---
 
