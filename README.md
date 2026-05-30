@@ -8,7 +8,7 @@
 - 📱 Dabbling in Flutter mobile development
 - 🔧 Learning C from the ground up
 - 🌱 Always picking up something new
-[Website Portfolio](https://tofuii.netlify.app/)
+- [Website Portfolio](https://tofuii.netlify.app/)
 
 ---
 
