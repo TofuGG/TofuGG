@@ -37,9 +37,4 @@
 
 ---
 
-## 🏆 Achievements
-> Pull Shark · Pair Extraordinaire · YOLO · Quickdraw
-
----
-
 *Thanks for stopping by!* 👾
