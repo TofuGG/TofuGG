@@ -1,0 +1,25 @@
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Tofu"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="34.290%" alt=""></picture><a href="mailto:tofu.techzone@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="14.866%" alt="gmail"></picture></a><a href="https://discord.com/users/654203882309812242"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="34.290%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/TofuGG/ewucp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ewucp-dark.svg"><img src="assets/project-ewucp-light.svg" width="49%" alt="ewucp"></picture></a>&nbsp;<a href="https://github.com/TofuGG/gurabott"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gurabott-dark.svg"><img src="assets/project-gurabott-light.svg" width="49%" alt="gurabott"></picture></a>
+
+<a href="https://github.com/TofuGG/Action-rpg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-action-rpg-dark.svg"><img src="assets/project-action-rpg-light.svg" width="49%" alt="Action-rpg"></picture></a>&nbsp;<a href="https://github.com/TofuGG/gt-1.0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gt-1-0-dark.svg"><img src="assets/project-gt-1-0-light.svg" width="49%" alt="gt-1.0"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://tofuii.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/TofuGG?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=TofuGG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
