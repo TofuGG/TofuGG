@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/TofuGG/ewucp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ewucp-dark.svg"><img src="assets/project-ewucp-light.svg" width="49%" alt="ewucp"></picture></a>&nbsp;<a href="https://github.com/TofuGG/gurabott"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gurabott-dark.svg"><img src="assets/project-gurabott-light.svg" width="49%" alt="gurabott"></picture></a>
-
-<a href="https://github.com/TofuGG/Action-rpg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-action-rpg-dark.svg"><img src="assets/project-action-rpg-light.svg" width="49%" alt="Action-rpg"></picture></a>&nbsp;<a href="https://github.com/TofuGG/gt-1.0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gt-1-0-dark.svg"><img src="assets/project-gt-1-0-light.svg" width="49%" alt="gt-1.0"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

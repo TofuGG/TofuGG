@@ -1,0 +1,604 @@
+{
+ "key": "bf1b42c0",
+ "stars": 13,
+ "contributions": 173,
+ "repos": 51,
+ "followers": 7,
+ "languages": [
+  [
+   "CSS",
+   6918899
+  ],
+  [
+   "HTML",
+   3230053
+  ],
+  [
+   "TypeScript",
+   477856
+  ],
+  [
+   "JavaScript",
+   469487
+  ],
+  [
+   "Dart",
+   259515
+  ],
+  [
+   "SCSS",
+   158978
+  ],
+  [
+   "Less",
+   156962
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 4,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 6
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "mitch",
+   "url": "https://github.com/TofuGG/mitch",
+   "text": "Unofficial Android client for itch.io, mirror of https://sr.ht/~gardenapple/mitch/",
+   "fork": true,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Action-rpg",
+   "url": "https://github.com/TofuGG/Action-rpg",
+   "text": "Godot learning",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "ewucp",
+   "url": "https://github.com/TofuGG/ewucp",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "gurabott",
+   "url": "https://github.com/TofuGG/gurabott",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "lets-love",
+   "url": "https://github.com/TofuGG/lets-love",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "learnpy",
+   "url": "https://github.com/TofuGG/learnpy",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "BFZ_Website",
+   "url": "https://github.com/TofuGG/BFZ_Website",
+   "text": "Site designed for open sourse hardware and electronic initiative",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "TT-1.0",
+   "url": "https://github.com/TofuGG/TT-1.0",
+   "text": "This is my website showing my best skills describing myself!!",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "gt-1.0",
+   "url": "https://github.com/TofuGG/gt-1.0",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "kaylasweb-1.2",
+   "url": "https://github.com/TofuGG/kaylasweb-1.2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "test_app",
+   "url": "https://github.com/TofuGG/test_app",
+   "text": "Flutter project",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AllinOne",
+   "url": "https://github.com/TofuGG/AllinOne",
+   "text": "This is Software written in C language. I am basically a newbie in C programming. So this is my software and it's sorce codes.",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "kayla-test",
+   "url": "https://github.com/TofuGG/kayla-test",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "gachataz",
+   "url": "https://github.com/TofuGG/gachataz",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "TofuGG",
+   "url": "https://github.com/TofuGG/TofuGG",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ElyHorizon",
+   "url": "https://github.com/TofuGG/ElyHorizon",
+   "text": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Tobi-esp32-robot",
+   "url": "https://github.com/TofuGG/Tobi-esp32-robot",
+   "text": "A compact ESP32 desktop companion robot featuring OLED eye animations and capacitive touch interaction.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "HyperSelect",
+   "url": "https://github.com/TofuGG/HyperSelect",
+   "text": "HyperOS 文本选择、系统分享与打开方式净化模块",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "CorePatch-Fork",
+   "url": "https://github.com/TofuGG/CorePatch-Fork",
+   "text": "Disable signature verification For Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "CasaOS-UI",
+   "url": "https://github.com/TofuGG/CasaOS-UI",
+   "text": "The front-end of CasaOS,build with VueJS",
+   "fork": true,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "CasaOS-AppManagement",
+   "url": "https://github.com/TofuGG/CasaOS-AppManagement",
+   "text": "App management service manages CasaOS app lifecycle, such as installation, running, etc.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "CasaOS-UserService",
+   "url": "https://github.com/TofuGG/CasaOS-UserService",
+   "text": "User Service provides user management functionalities to CasaOS.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "CasaOS-Gateway",
+   "url": "https://github.com/TofuGG/CasaOS-Gateway",
+   "text": "CasaOS Gateway is a dynamic API gateway service that can be used to expose APIs from different other HTTP based services.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "CasaOS-AppStore",
+   "url": "https://github.com/TofuGG/CasaOS-AppStore",
+   "text": "Manifest files for CasaOS Apps",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "CasaOS",
+   "url": "https://github.com/TofuGG/CasaOS",
+   "text": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Atoms-Project-Downloader",
+   "url": "https://github.com/TofuGG/Atoms-Project-Downloader",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "aterbot",
+   "url": "https://github.com/TofuGG/aterbot",
+   "text": "✨ A Minecraft bot for keep your Aternos server alive 24/7!",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "boroCTF-2026-public",
+   "url": "https://github.com/TofuGG/boroCTF-2026-public",
+   "text": "Public release of the challenges for boroCTF 2026!",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "snip",
+   "url": "https://github.com/TofuGG/snip",
+   "text": "A terminal snippet manager to store, search, and copy code snippets without leaving your shell — local, offline, and built with Textual.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/TofuGG/Portfolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "EWU-Schedule-Maker-2.0",
+   "url": "https://github.com/TofuGG/EWU-Schedule-Maker-2.0",
+   "text": "Easily generate and visualize your EWU class schedule with our simple and modern tool.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "MCBW",
+   "url": "https://github.com/TofuGG/MCBW",
+   "text": "Messenger Chat Bubble for Windows",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "byob",
+   "url": "https://github.com/TofuGG/byob",
+   "text": "An open-source post-exploitation framework for students, researchers and developers.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "webvm",
+   "url": "https://github.com/TofuGG/webvm",
+   "text": "Virtual Machine for the Web",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Mahin",
+   "url": "https://github.com/TofuGG/Mahin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "youtube-music",
+   "url": "https://github.com/TofuGG/youtube-music",
+   "text": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "osakaOS",
+   "url": "https://github.com/TofuGG/osakaOS",
+   "text": "The de facto operating system developed for the cult of Ayumu \"Osaka\" Kasuga.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "MultiPaper",
+   "url": "https://github.com/TofuGG/MultiPaper",
+   "text": "Multi-server, single-world papermc implementation",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/TofuGG/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "24-Aternos",
+   "url": "https://github.com/TofuGG/24-Aternos",
+   "text": "This is a bot for minecraft hosting aternos. This bot does not allow the server to shut down.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "2DGame",
+   "url": "https://github.com/TofuGG/2DGame",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "simpleKey",
+   "url": "https://github.com/TofuGG/simpleKey",
+   "text": "A simple yet awesome input library for love2d",
+   "fork": true,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "LOSTCODES",
+   "url": "https://github.com/TofuGG/LOSTCODES",
+   "text": "codes not given in yt description",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Termux-ADB-lil-update",
+   "url": "https://github.com/TofuGG/Termux-ADB-lil-update",
+   "text": "Install ADB & FastBoot Tools in Termux!",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "ohmyzsh",
+   "url": "https://github.com/TofuGG/ohmyzsh",
+   "text": "🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Launcher",
+   "url": "https://github.com/TofuGG/Launcher",
+   "text": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "TechproTaz.github.io",
+   "url": "https://github.com/TofuGG/TechproTaz.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "cactus-base-test",
+   "url": "https://github.com/TofuGG/cactus-base-test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "osu",
+   "url": "https://github.com/TofuGG/osu",
+   "text": "rhythm is just a *click* away!",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "xf86-input-wacom",
+   "url": "https://github.com/TofuGG/xf86-input-wacom",
+   "text": "X.Org driver for Wacom devices",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ShishirSCU",
+   "url": "https://github.com/TofuGG/ShishirSCU",
+   "text": "A website for Shishir",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}
