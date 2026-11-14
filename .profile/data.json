@@ -1,5 +1,5 @@
 {
- "key": "70c5a55b",
+ "key": "b0acc0ba",
  "stars": 13,
  "contributions": 157,
  "repos": 51,
@@ -163,6 +163,15 @@
    "topics": []
   },
   {
+   "name": "ElyHorizon",
+   "url": "https://github.com/TofuGG/ElyHorizon",
+   "text": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
+   "fork": true,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
    "name": "Action-rpg",
    "url": "https://github.com/TofuGG/Action-rpg",
    "text": "Godot learning",
@@ -286,15 +295,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "ElyHorizon",
-   "url": "https://github.com/TofuGG/ElyHorizon",
-   "text": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-   "fork": true,
-   "stars": 0,
-   "language": "Rust",
    "topics": []
   },
   {
